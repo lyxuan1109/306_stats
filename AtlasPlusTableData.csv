@@ -1,84 +1,76 @@
-﻿"Date Printed: Wednesday, April 12, 2023 2:09:29 PM"
-Title: "HIV diagnoses | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 (COVID-19 Pandemic) | 2021 | 2022 | Michigan | All races/ethnicities | Both sexes | 13-24 | 25-34 | 35-44 | 45-54 | 55+ | All transmission categories"
-Footnote(s): Data for years 2021 and 2022 are preliminary (subject to a 12-month reporting delay). Data for the year 2020 should be interpreted with caution due to the impact of the COVID-19 pandemic on access to HIV testing, care-related services, and case surveillance activities in state/local jurisdictions. Inclusion of 2020 through 2022 data in trend assessments is discouraged. Data by transmission category presented based on sex assigned at birth and are adjusted for missing transmission category. See Technical notes for more details on data availability and stratifications.
-The 'Sex' column is used for either sex at birth or gender identity.
-NA - Not applicable.
-
-
-
 Indicator,Year,Age Group,Cases,Rate per 100000
-"HIV diagnoses","2008","13-24","211","12.3"
-"HIV diagnoses","2008","25-34","194","16.0"
-"HIV diagnoses","2008","35-44","185","13.4"
-"HIV diagnoses","2008","45-54","121","7.9"
-"HIV diagnoses","2008","55+","60","2.4"
-"HIV diagnoses","2009","13-24","221","13.0"
-"HIV diagnoses","2009","25-34","209","17.4"
-"HIV diagnoses","2009","35-44","177","13.3"
-"HIV diagnoses","2009","45-54","136","8.8"
-"HIV diagnoses","2009","55+","59","2.3"
-"HIV diagnoses","2010","13-24","194","11.5"
-"HIV diagnoses","2010","25-34","222","19.1"
-"HIV diagnoses","2010","35-44","152","12.0"
-"HIV diagnoses","2010","45-54","137","9.1"
-"HIV diagnoses","2010","55+","56","2.1"
-"HIV diagnoses","2011","13-24","244","14.5"
-"HIV diagnoses","2011","25-34","202","17.3"
-"HIV diagnoses","2011","35-44","142","11.4"
-"HIV diagnoses","2011","45-54","131","8.8"
-"HIV diagnoses","2011","55+","56","2.1"
-"HIV diagnoses","2012","13-24","250","14.8"
-"HIV diagnoses","2012","25-34","213","18.1"
-"HIV diagnoses","2012","35-44","147","12.1"
-"HIV diagnoses","2012","45-54","117","8.1"
-"HIV diagnoses","2012","55+","55","2.0"
-"HIV diagnoses","2013","13-24","217","12.8"
-"HIV diagnoses","2013","25-34","219","18.5"
-"HIV diagnoses","2013","35-44","122","10.1"
-"HIV diagnoses","2013","45-54","125","8.8"
-"HIV diagnoses","2013","55+","67","2.4"
-"HIV diagnoses","2014","13-24","237","14.0"
-"HIV diagnoses","2014","25-34","245","20.4"
-"HIV diagnoses","2014","35-44","122","10.2"
-"HIV diagnoses","2014","45-54","111","8.0"
-"HIV diagnoses","2014","55+","64","2.2"
-"HIV diagnoses","2015","13-24","218","13.1"
-"HIV diagnoses","2015","25-34","219","17.9"
-"HIV diagnoses","2015","35-44","117","10.0"
-"HIV diagnoses","2015","45-54","118","8.6"
-"HIV diagnoses","2015","55+","52","1.8"
-"HIV diagnoses","2016","13-24","225","13.7"
-"HIV diagnoses","2016","25-34","220","17.6"
-"HIV diagnoses","2016","35-44","128","11.0"
-"HIV diagnoses","2016","45-54","109","8.1"
-"HIV diagnoses","2016","55+","63","2.1"
-"HIV diagnoses","2017","13-24","191","11.8"
-"HIV diagnoses","2017","25-34","275","21.6"
-"HIV diagnoses","2017","35-44","133","11.5"
-"HIV diagnoses","2017","45-54","100","7.6"
-"HIV diagnoses","2017","55+","74","2.4"
-"HIV diagnoses","2018","13-24","175","11.0"
-"HIV diagnoses","2018","25-34","276","21.3"
-"HIV diagnoses","2018","35-44","106","9.1"
-"HIV diagnoses","2018","45-54","93","7.2"
-"HIV diagnoses","2018","55+","69","2.2"
-"HIV diagnoses","2019","13-24","172","10.9"
-"HIV diagnoses","2019","25-34","266","20.3"
-"HIV diagnoses","2019","35-44","111","9.5"
-"HIV diagnoses","2019","45-54","73","5.8"
-"HIV diagnoses","2019","55+","52","1.6"
-"HIV diagnoses","2020 (COVID-19 Pandemic)","13-24","121","7.8"
-"HIV diagnoses","2020 (COVID-19 Pandemic)","25-34","193","14.6"
-"HIV diagnoses","2020 (COVID-19 Pandemic)","35-44","83","7.1"
-"HIV diagnoses","2020 (COVID-19 Pandemic)","45-54","73","6.0"
-"HIV diagnoses","2020 (COVID-19 Pandemic)","55+","49","1.5"
-"HIV diagnoses","2021","13-24","140","Data not available"
-"HIV diagnoses","2021","25-34","241","Data not available"
-"HIV diagnoses","2021","35-44","113","Data not available"
-"HIV diagnoses","2021","45-54","80","Data not available"
-"HIV diagnoses","2021","55+","60","Data not available"
-"HIV diagnoses","2022","13-24","Data not available","Data not available"
-"HIV diagnoses","2022","25-34","Data not available","Data not available"
-"HIV diagnoses","2022","35-44","Data not available","Data not available"
-"HIV diagnoses","2022","45-54","Data not available","Data not available"
-"HIV diagnoses","2022","55+","Data not available","Data not available"
+HIV diagnoses,2008,13-24,211,12.3
+HIV diagnoses,2008,25-34,194,16
+HIV diagnoses,2008,35-44,185,13.4
+HIV diagnoses,2008,45-54,121,7.9
+HIV diagnoses,2008,55+,60,2.4
+HIV diagnoses,2009,13-24,221,13
+HIV diagnoses,2009,25-34,209,17.4
+HIV diagnoses,2009,35-44,177,13.3
+HIV diagnoses,2009,45-54,136,8.8
+HIV diagnoses,2009,55+,59,2.3
+HIV diagnoses,2010,13-24,194,11.5
+HIV diagnoses,2010,25-34,222,19.1
+HIV diagnoses,2010,35-44,152,12
+HIV diagnoses,2010,45-54,137,9.1
+HIV diagnoses,2010,55+,56,2.1
+HIV diagnoses,2011,13-24,244,14.5
+HIV diagnoses,2011,25-34,202,17.3
+HIV diagnoses,2011,35-44,142,11.4
+HIV diagnoses,2011,45-54,131,8.8
+HIV diagnoses,2011,55+,56,2.1
+HIV diagnoses,2012,13-24,250,14.8
+HIV diagnoses,2012,25-34,213,18.1
+HIV diagnoses,2012,35-44,147,12.1
+HIV diagnoses,2012,45-54,117,8.1
+HIV diagnoses,2012,55+,55,2
+HIV diagnoses,2013,13-24,217,12.8
+HIV diagnoses,2013,25-34,219,18.5
+HIV diagnoses,2013,35-44,122,10.1
+HIV diagnoses,2013,45-54,125,8.8
+HIV diagnoses,2013,55+,67,2.4
+HIV diagnoses,2014,13-24,237,14
+HIV diagnoses,2014,25-34,245,20.4
+HIV diagnoses,2014,35-44,122,10.2
+HIV diagnoses,2014,45-54,111,8
+HIV diagnoses,2014,55+,64,2.2
+HIV diagnoses,2015,13-24,218,13.1
+HIV diagnoses,2015,25-34,219,17.9
+HIV diagnoses,2015,35-44,117,10
+HIV diagnoses,2015,45-54,118,8.6
+HIV diagnoses,2015,55+,52,1.8
+HIV diagnoses,2016,13-24,225,13.7
+HIV diagnoses,2016,25-34,220,17.6
+HIV diagnoses,2016,35-44,128,11
+HIV diagnoses,2016,45-54,109,8.1
+HIV diagnoses,2016,55+,63,2.1
+HIV diagnoses,2017,13-24,191,11.8
+HIV diagnoses,2017,25-34,275,21.6
+HIV diagnoses,2017,35-44,133,11.5
+HIV diagnoses,2017,45-54,100,7.6
+HIV diagnoses,2017,55+,74,2.4
+HIV diagnoses,2018,13-24,175,11
+HIV diagnoses,2018,25-34,276,21.3
+HIV diagnoses,2018,35-44,106,9.1
+HIV diagnoses,2018,45-54,93,7.2
+HIV diagnoses,2018,55+,69,2.2
+HIV diagnoses,2019,13-24,172,10.9
+HIV diagnoses,2019,25-34,266,20.3
+HIV diagnoses,2019,35-44,111,9.5
+HIV diagnoses,2019,45-54,73,5.8
+HIV diagnoses,2019,55+,52,1.6
+HIV diagnoses,2020 (COVID-19 Pandemic),13-24,121,7.8
+HIV diagnoses,2020 (COVID-19 Pandemic),25-34,193,14.6
+HIV diagnoses,2020 (COVID-19 Pandemic),35-44,83,7.1
+HIV diagnoses,2020 (COVID-19 Pandemic),45-54,73,6
+HIV diagnoses,2020 (COVID-19 Pandemic),55+,49,1.5
+HIV diagnoses,2021,13-24,140,Data not available
+HIV diagnoses,2021,25-34,241,Data not available
+HIV diagnoses,2021,35-44,113,Data not available
+HIV diagnoses,2021,45-54,80,Data not available
+HIV diagnoses,2021,55+,60,Data not available
+HIV diagnoses,2022,13-24,Data not available,Data not available
+HIV diagnoses,2022,25-34,Data not available,Data not available
+HIV diagnoses,2022,35-44,Data not available,Data not available
+HIV diagnoses,2022,45-54,Data not available,Data not available
+HIV diagnoses,2022,55+,Data not available,Data not available
